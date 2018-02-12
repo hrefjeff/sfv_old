@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hi, I'm Jeffrey.
 
-You can use the [editor on GitHub](https://github.com/jeffreyallen92/page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I develop software. I was born in Nürnberg, Germany, grew up in Orlando, Florida, earned an undergrad in Computer Science over in Florence, Alabama, and am currently working in Huntsville, Alabama.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can check me out and send me a message at the bottom of my [personal website](https://jeffwayne.codes) or checkout my github account [here](https://github.com/jeffreyallen92).
 
 ### Markdown
 
