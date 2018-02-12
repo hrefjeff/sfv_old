@@ -1,12 +1,11 @@
-## Hi, I'm Jeffrey.
+# Hi, I'm Jeffrey.
 
-I develop software. I was born in Nürnberg, Germany, grew up in Orlando, Florida, earned an undergrad in Computer Science over in Florence, Alabama, and am currently working in Huntsville, Alabama.
+# Intro
+## 2017-02-09
+
+I play alotta Street Fighter 5 and I'm maining Ryu at the moment. I play on PlayStation 4 (psn: jiggabeffrey, cfn: Boombahyay). The plan is to transition to PC within the next couple of months (steam name: Buttnekkid) and may stream eventually.
 
 You can check me out and send me a message at the bottom of my [personal website](https://jeffwayne.codes) or checkout my github account [here](https://github.com/jeffreyallen92).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +29,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeffreyallen92/page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeffreyallen92/page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
