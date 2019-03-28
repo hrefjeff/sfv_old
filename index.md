@@ -1,4 +1,4 @@
-#Jeffrey's Street Fighter 5 Blog
+# Jeffrey's Street Fighter 5 Blog
 
 ## Thoughts after a year
 ### 2019-03-28
