@@ -14,6 +14,8 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
   1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
   2. Play patient when in neutral. When in the mid-screen, bounce in and out of slide range.
+  3. Take the landing frame throws. They'll most likely be brimstones, so backdash.
+  4. When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.
 
 #### Defensive options
 
@@ -46,7 +48,11 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
   1. cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your SOL.
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
-  3. Oki situations
+  3. Tick-throws
+      1. st.lk --> cmd
+      2. st.lp --> st. lp --> ex.
+      3. st.lk --> cr.lk --> ex.brimestone
+  4. Oki situations
       1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
       2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
       3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
