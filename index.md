@@ -30,19 +30,25 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 #### Defensive options
 
   1. Charged dropkick
-        a. PRE  - cr.mk low profile
-        b. PRE  - walk+quick attack
-        c. PRE  - backdash to force whiff
-        d. PRE  - Jump in (divebomb)
-        e. POST - Guess Right
+  <pre>
+    1. PRE  - cr.mk low profile
+    2. PRE  - walk+quick attack
+    3. PRE  - backdash to force whiff
+    4. PRE  - Jump in (divebomb)
+    5. POST - Guess Right
+  </pre>
   2. Dive bomb
-        a. block
-        b. dash under
-        c. wingless airplane
+  <pre>
+    1. block
+    2. dash under
+    3. wingless airplane
+  </pre>
   3. st.mk
-        a. st.mk
-        b. cr.mk
-        c ex.peach
+  <pre>
+    1. st.mk
+    2. cr.mk
+    3. ex.peach
+  </pre>
   4. st.mp ---> *MAAAAAASH*
   5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
   6. brimstone --> backdash
@@ -54,14 +60,18 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
   3. Fake pressure when I notice more blocking
   3. Tick-throws!!
-        * st.lk --> cmd
-        * st.lp --> st. lp --> ex.swing
-        * st.lk --> cr.lk --> ex.brimestone
+  <pre>
+    1. st.lk --> cmd
+    2. st.lp --> st. lp --> ex.swing
+    3. st.lk --> cr.lk --> ex.brimestone
+  </pre>
   4. Oki situations
-        * brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
-        * brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
-        * peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
-        * ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
+  <pre>
+    1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
+    2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
+    3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
+    4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
+  <pre>
   5. If there is wake up V-trigger, and I'm pressing a button, cancel into WA or EX.peach
       
 #### The nootch (I'll probably take the Joey900 approach)
