@@ -1,6 +1,6 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Money Match at the Local (Pre-fightb)
+## Money Match at the Local (Pre-fightc)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
