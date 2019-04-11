@@ -17,11 +17,24 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
 #### Defensive options for specific moves
 
-  1. Charged dropkick  -->
-  2. Dive bomb         -->
-  3. st.mk             -->
-  4. st.mp             --> MMMMASH
-  5. f.hp              --> st.lk
+  1. Charged dropkick
+    1. Pre-dropkick
+      1. cr.mk low profile
+      2. walk+quick attack
+      3. backdash to force whiff
+      4. Jump in (divebomb)
+    2. Post-dropkick
+      1. Guess right
+  2. Dive bomb
+    1. block
+    2. dash under
+    3. wingless airplane
+  3. st.mk
+    1. st.mk
+    2. cr.mk
+    3. ex.peach
+  4. st.mp ---> *MAAAAAASH*
+  5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
   6. brimstone (k.cmd) --> backdash
   7. ex-peach          --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp
   
