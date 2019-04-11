@@ -14,7 +14,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
 <ol>
 <li>CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this match up</li>
-<li>Play patient when in neutral. Generally 4 ways to get in:</li><br>
+<li>Play patient when in neutral. Watch for the general 4 tendencies of getting in:</li><br>
 <pre>
   1. Dash
   2. Jump (splash)
