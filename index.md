@@ -1,23 +1,22 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Thoughts after a year
-### 2019-04-11 @ 1:46PM
+## Money Match at the Local (Pre-money match time)
+### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RESPEK! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
 This is a special occasion because I've been playing this game for roughly a little over year. I spent even less time at my local scene. But when I first arrived at my local (which is at Lucky Dice cafe every thursday), one of the first people I ran into was a dude named Nikos. Every thursday he would beat me silly. HOWEVER! It hasn't been until recently where I consistently beat him. He hasn't recognized that so I had to call him out.
 
 Here are some of my notes on how I'll be approaching the match up and collecting my winnings tonight:
 
-<strong>R.Mika Mirror Match</strong>
-====================================
+### R.Mika Mirror Match
 
-General things I'll keep in mind
----------------------------------
+#### General things I'll keep in mind
+
   1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
   2. Play patient when in neutral. When in the mid-screen, bounce in and out of slide range.
 
-Defensive options for specific moves
-------------------------------------
+#### Defensive options for specific moves
+
   1. Charged dropkick  -->
   2. Dive bomb         -->
   3. st.mk             -->
@@ -26,8 +25,8 @@ Defensive options for specific moves
   6. brimstone (k.cmd) --> backdash
   7. ex-peach          --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp
   
-Offensive options
------------------
+#### Offensive options
+
   1. cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your SOL.
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
   3. Oki situations
@@ -36,10 +35,11 @@ Offensive options
       3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
       4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
       
-The nootch (I'll probably take the Joey900 approach)
-----------------------------------------------------
-  1. Walk + block.
-  2. Wiff safe moves like st.lk, st.lp, and sprinkle in random uncharged drop kicks.
+#### The nootch (I'll probably take the Joey900 approach)
+
+  1. NOT get baited into the corner. The ol' walk back and then do a back throw or something is strong.
+  2. Walk + block. Until he starts poking to counter that. Then I counter poke. Then he'll start approaching. Then I'll poke. On and on and on
+  3. Whiff safe moves like st.lk, st.lp, and sprinkle in random uncharged drop kicks.
       
 
 Oh. Btw. Just got Karin to Platinum (7500LP).
