@@ -23,17 +23,23 @@ Here are some of my notes on how I'll be approaching the match up and collecting
       3. PRE  - backdash to force whiff
       4. PRE  - Jump in (divebomb)
       5. POST - Guess Right
+      
   2. Dive bomb
     1. block
     2. dash under
     3. wingless airplane
+    
   3. st.mk
     1. st.mk
     2. cr.mk
     3. ex.peach
+    
   4. st.mp ---> *MAAAAAASH*
+  
   5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
+  
   6. brimstone (k.cmd) --> backdash
+  
   7. ex-peach          --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp
   
 #### Offensive options
