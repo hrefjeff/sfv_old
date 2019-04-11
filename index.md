@@ -1,6 +1,6 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Money Match at the Local (Pre-fightc)
+## Money Match at the Local (Pre-fightd)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
@@ -14,10 +14,12 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
   1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
   2. Play patient when in neutral. Generally 4 ways to get in:
-      a. Dash
-      b. Jump (splash)
-      c. Charged dropkick
-      d. Stand mp -> ex peach
+    <ul>
+      <li>Dash</li>
+      <li>Jump (splash)</li>
+      <li>Charged dropkick</li>
+      <li>Stand mp -> ex peach</li>
+    </ul>
   3. Take the landing frame throws. They'll most likely be brimstones, so backdash.
   4. When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.
   5. st.mk to counter wake up CA
