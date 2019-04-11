@@ -1,31 +1,31 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Money Match at the Local (Pre-fighta)
+## Money Match at the Local (Pre-fightb)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
 This is a special occasion because I've been playing this game for roughly a little over year. I spent even less time at my local scene. But when I first arrived at my local (which is at Lucky Dice cafe every thursday), one of the first people I ran into was a dude named Nikos. Every thursday he would beat me silly. HOWEVER! It hasn't been until recently where I consistently beat him. He hasn't recognized that so I had to call him out.
 
-Here are some of my notes on how I'll be approaching the match up and collecting my winnings tonight:
+Here are some of my notes on how I'll be approaching the match up and collecting my prize tonight:
 
 ### R.Mika Mirror Match
 
 #### General things I'll keep in mind
 
-<ul>
+<ol>
 <li>CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this match up</li>
 <li>Play patient when in neutral. Generally 4 ways to get in:</li><br>
 <pre>
-  *** Dash<br>
-  *** Jump (splash)<br>
-  *** Charged dropkick`<br>
-  *** Stand mp -> ex peach<br>
+  1. Dash
+  2. Jump (splash)
+  3. Charged dropkick
+  3. Stand mp -> ex peach
 </pre>
 <li>Take the landing frame throws. They'll most likely be brimstones, so backdash.</li>
 <li>When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.</li>
 <li>st.mk to counter wake up CA</li>
 <li>Mix in regular throws from time to time</li>
-</ul>
+</ol>
 
 #### Defensive options
 
