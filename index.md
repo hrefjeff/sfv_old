@@ -29,7 +29,8 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
 #### Defensive options
 
-  1. Charged dropkick
+<ol>
+  <li>Charged dropkick</li>
 <pre>
   1. PRE  - low profile with cr.mk
   2. PRE  - walk+quick attack
@@ -37,22 +38,23 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   4. PRE  - Jump in (divebomb)
   5. POST - Guess Right
 </pre>
-  2. Dive bomb
+  <li>Dive bomb</li>
 <pre>
   1. block
   2. dash under
   3. wingless airplane
 </pre>
-  3. st.mk
+  <li>st.mk</li>
 <pre>
   1. st.mk
   2. cr.mk
   3. ex.peach
 </pre>
-  4. st.mp ---> *MAAAAAASH*
-  5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
-  6. brimstone --> backdash
-  7. ex-peach --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp
+  <li>st.mp ---> *MAAAAAASH*</li>
+  <li>f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs</li>
+  <li>brimstone --> backdash</li>
+  <li>ex-peach --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp</li>
+</ol>
   
 #### Offensive options
 
