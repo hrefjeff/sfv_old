@@ -15,7 +15,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
   2. Play patient when in neutral. When in the mid-screen, bounce in and out of slide range.
 
-#### Defensive options for specific moves
+#### Defensive options
 
   1. Charged dropkick
     1. Pre-dropkick
