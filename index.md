@@ -67,6 +67,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   1. st.lk --> cmd
   2. st.lp --> st. lp --> ex.swing
   3. st.lk --> cr.lk --> ex.brimestone
+  4. st.lk --> microwalk --> cr.lp --> microwalk --> reg.grab
 </pre>
   <li>Oki situations</li>
 <pre>
