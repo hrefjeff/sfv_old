@@ -18,13 +18,11 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 #### Defensive options
 
   1. Charged dropkick
-    1. Pre-dropkick
-      1. cr.mk low profile
-      2. walk+quick attack
-      3. backdash to force whiff
-      4. Jump in (divebomb)
-    2. Post-dropkick
-      1. Guess right
+      1. PRE  - cr.mk low profile
+      2. PRE  - walk+quick attack
+      3. PRE  - backdash to force whiff
+      4. PRE  - Jump in (divebomb)
+      5. POST - Guess Right
   2. Dive bomb
     1. block
     2. dash under
