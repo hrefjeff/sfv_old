@@ -58,30 +58,33 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   
 #### Offensive options
 
-  1. cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your SOL.
-  2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
-  3. Fake pressure when I notice more blocking
-  3. Tick-throws!!
+<ol>
+  <li>cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your S.O.L.</li>
+  <li>Walking + blocking. Cuz we ain't no bitch. In the corner especially.</li>
+  <li>Fake pressure when I have conditioned accordingly</li>
+  <li>Tick-throws!!</li>
 <pre>
   1. st.lk --> cmd
   2. st.lp --> st. lp --> ex.swing
   3. st.lk --> cr.lk --> ex.brimestone
 </pre>
-  4. Oki situations
+  <li>Oki situations</li>
 <pre>
   1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
   2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
   3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
   4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
 </pre>
-  5. If there is wake up V-trigger, and I'm pressing a button, cancel into WA or EX.peach
-      
+  <li>If there is wake up V-trigger, and I'm pressing a button, cancel into WA or EX.peach</li>
+</ol>
+
 #### The nootch (I'll probably take the Joey900 approach)
 
-  1. NOT get baited into the corner. The ol' walk back and then do a back throw or something is strong.
-  2. Walk + block. Until he starts poking to counter that. Then I counter poke. Then he'll start approaching. Then I'll poke. On and on and on
-  3. Whiff safe moves like st.lk, st.lp, and sprinkle in random uncharged drop kicks.
-      
+<ol>
+  <li>NOT get baited into the corner. The ol' walk back and then do a back throw or something is strong.</li>
+  <li>Walk + block. Until he starts poking to counter that. Then I counter poke. Then he'll start approaching. Then I'll poke. On and on and on</li>
+  <li>Whiff safe moves like st.lk, st.lp, and sprinkle in random uncharged drop kicks.</li>
+</ol>  
 
 Oh. Btw. Just got Karin to Platinum (7500LP).
 
