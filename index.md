@@ -21,6 +21,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   3. Take the landing frame throws. They'll most likely be brimstones, so backdash.
   4. When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.
   5. st.mk to counter wake up CA
+  6. Mix in regular throws from time to time
 
 #### Defensive options
 
@@ -47,9 +48,10 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
   1. cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your SOL.
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
-  3. Tick-throws
+  3. Fake pressure when I notice more blocking
+  3. Tick-throws!!
       1. st.lk --> cmd
-      2. st.lp --> st. lp --> ex.
+      2. st.lp --> st. lp --> ex.swing
       3. st.lk --> cr.lk --> ex.brimestone
   4. Oki situations
       1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
