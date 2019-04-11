@@ -31,7 +31,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
   1. Charged dropkick
   <pre>
-    1. PRE  - cr.mk low profile
+    1. PRE  - low profile with cr.mk
     2. PRE  - walk+quick attack
     3. PRE  - backdash to force whiff
     4. PRE  - Jump in (divebomb)
@@ -71,7 +71,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
     2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
     3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
     4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
-  <pre>
+  </pre>
   5. If there is wake up V-trigger, and I'm pressing a button, cancel into WA or EX.peach
       
 #### The nootch (I'll probably take the Joey900 approach)
