@@ -1,6 +1,6 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Money Match at the Local (Pre-fightc)
+## Money Match at the Local (Pre-fightd)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
@@ -30,25 +30,25 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 #### Defensive options
 
   1. Charged dropkick
-  <pre>
-    1. PRE  - low profile with cr.mk
-    2. PRE  - walk+quick attack
-    3. PRE  - backdash to force whiff
-    4. PRE  - Jump in (divebomb)
-    5. POST - Guess Right
-  </pre>
+<pre>
+  1. PRE  - low profile with cr.mk
+  2. PRE  - walk+quick attack
+  3. PRE  - backdash to force whiff
+  4. PRE  - Jump in (divebomb)
+  5. POST - Guess Right
+</pre>
   2. Dive bomb
-  <pre>
-    1. block
-    2. dash under
-    3. wingless airplane
-  </pre>
+<pre>
+  1. block
+  2. dash under
+  3. wingless airplane
+</pre>
   3. st.mk
-  <pre>
-    1. st.mk
-    2. cr.mk
-    3. ex.peach
-  </pre>
+<pre>
+  1. st.mk
+  2. cr.mk
+  3. ex.peach
+</pre>
   4. st.mp ---> *MAAAAAASH*
   5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
   6. brimstone --> backdash
@@ -60,18 +60,18 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
   3. Fake pressure when I notice more blocking
   3. Tick-throws!!
-  <pre>
-    1. st.lk --> cmd
-    2. st.lp --> st. lp --> ex.swing
-    3. st.lk --> cr.lk --> ex.brimestone
-  </pre>
+<pre>
+  1. st.lk --> cmd
+  2. st.lp --> st. lp --> ex.swing
+  3. st.lk --> cr.lk --> ex.brimestone
+</pre>
   4. Oki situations
-  <pre>
-    1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
-    2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
-    3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
-    4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
-  </pre>
+<pre>
+  1. brimstone (corner)    --> st.lp --> f.HP --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
+  2. brimstone (midscreen) --> dash --> (+2) cr.lp --(if delayed)--> st.lp (x2) --> f.HP or cr.mp
+  3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
+  4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
+</pre>
   5. If there is wake up V-trigger, and I'm pressing a button, cancel into WA or EX.peach
       
 #### The nootch (I'll probably take the Joey900 approach)
