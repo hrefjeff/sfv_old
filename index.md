@@ -6,15 +6,18 @@
 
 This is a special occasion because I've been playing this game for roughly a little over year. I spent even less time at my local scene. But when I first arrived at my local (which is at Lucky Dice cafe every thursday), one of the first people I ran into was a dude named Nikos. Every thursday he would beat me silly. HOWEVER! It hasn't been until recently where I consistently beat him. He hasn't recognized that so I had to call him out.
 
-Here are some of my notes on the match up and how I'll be collecting my winnings tonight:
+Here are some of my notes on how I'll be approaching the match up and collecting my winnings tonight:
 
-<u><b>R.Mika Mirror Match</b></u>
+<strong>R.Mika Mirror Match</strong>
+====================================
 
-<u>General things I'll keep in mind</u>
+General things I'll keep in mind
+---------------------------------
   1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
   2. Play patient when in neutral. When in the mid-screen, bounce in and out of slide range.
 
-<u>Defensive options for specific moves</u>
+Defensive options for specific moves
+------------------------------------
   1. Charged dropkick  -->
   2. Dive bomb         -->
   3. st.mk             -->
@@ -23,7 +26,8 @@ Here are some of my notes on the match up and how I'll be collecting my winnings
   6. brimstone (k.cmd) --> backdash
   7. ex-peach          --> Back tech + walkback. If I notice a chasedown coming, I'll neutral tech + mash cr.lp
   
-<u>Offensive options</u>
+Offensive options
+-----------------
   1. cr.mk --> V-trigger activate. Everybody and they mama cr.hp and activate, but it can wiff and your SOL.
   2. Walking + blocking. Cuz we ain't no bitch. In the corner especially.
   3. Oki situations
@@ -32,7 +36,8 @@ Here are some of my notes on the match up and how I'll be collecting my winnings
       3. peach                 --> dash --> (+2) st.lp --> st.lp --> st.mp
       4. ex.peach              --> dash --> (+1) cr.lp --(if delayed)--> f.HP
       
-<u>The nootch (I'll probably take the Joey900 approach)</u>
+The nootch (I'll probably take the Joey900 approach)
+----------------------------------------------------
   1. Walk + block.
   2. Wiff safe moves like st.lk, st.lp, and sprinkle in random uncharged drop kicks.
       
