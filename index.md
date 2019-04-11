@@ -25,14 +25,14 @@ Here are some of my notes on how I'll be approaching the match up and collecting
       5. POST - Guess Right
       
   2. Dive bomb
-    1. block
-    2. dash under
-    3. wingless airplane
+      1. block
+      2. dash under
+      3. wingless airplane
     
   3. st.mk
-    1. st.mk
-    2. cr.mk
-    3. ex.peach
+      1. st.mk
+      2. cr.mk
+      3. ex.peach
     
   4. st.mp ---> *MAAAAAASH*
   
