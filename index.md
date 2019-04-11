@@ -12,18 +12,18 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 
 #### General things I'll keep in mind
 
-  1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
-  2. Play patient when in neutral. Generally 4 ways to get in:
-    <ul>
+1. CR.MK THE DROPKICK!!! Low profiling the dropkick is essential in this mu.
+2. Play patient when in neutral. Generally 4 ways to get in:
+<ul>
   <li>Dash</li>
   <li>Jump (splash)</li>
   <li>Charged dropkick</li>
   <li>Stand mp -> ex peach</li>
-    </ul>
-  3. Take the landing frame throws. They'll most likely be brimstones, so backdash.
-  4. When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.
-  5. st.mk to counter wake up CA
-  6. Mix in regular throws from time to time
+</ul>
+3. Take the landing frame throws. They'll most likely be brimstones, so backdash.
+4. When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.
+5. st.mk to counter wake up CA
+6. Mix in regular throws from time to time
 
 #### Defensive options
 
