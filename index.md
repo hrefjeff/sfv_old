@@ -1,6 +1,6 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## Money Match at the Local (Pre-fightb)
+## Money Match at the Local (Pre-fightc)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
@@ -26,19 +26,19 @@ Here are some of my notes on how I'll be approaching the match up and collecting
 #### Defensive options
 
   1. Charged dropkick
-        * PRE  - cr.mk low profile
-        * PRE  - walk+quick attack
-        * PRE  - backdash to force whiff
-        * PRE  - Jump in (divebomb)
-        * POST - Guess Right
+        a. PRE  - cr.mk low profile
+        b. PRE  - walk+quick attack
+        c. PRE  - backdash to force whiff
+        d. PRE  - Jump in (divebomb)
+        e. POST - Guess Right
   2. Dive bomb
-        * block
-        * dash under
-        * wingless airplane
+        a. block
+        b. dash under
+        c. wingless airplane
   3. st.mk
-        * st.mk
-        * cr.mk
-        * ex.peach
+        a. st.mk
+        b. cr.mk
+        c ex.peach
   4. st.mp ---> *MAAAAAASH*
   5. f.hp  ---> st.lk after blocking this. It shifts the hitbox back and avoids st.mp frametrap and cmd grabs
   6. brimstone --> backdash
