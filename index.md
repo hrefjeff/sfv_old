@@ -2,7 +2,7 @@
 
 ## Money Match at the Local (Pre-money match time)
 ### 2019-04-11
-<a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RESPEK! WHO'S GONNA GUESS RIGHT TONIGHT!?
+<a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
 
 This is a special occasion because I've been playing this game for roughly a little over year. I spent even less time at my local scene. But when I first arrived at my local (which is at Lucky Dice cafe every thursday), one of the first people I ran into was a dude named Nikos. Every thursday he would beat me silly. HOWEVER! It hasn't been until recently where I consistently beat him. He hasn't recognized that so I had to call him out.
 
