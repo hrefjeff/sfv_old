@@ -19,7 +19,7 @@ Here are some of my notes on how I'll be approaching the match up and collecting
   1. Dash
   2. Jump (splash)
   3. Charged dropkick
-  3. Stand mp -> ex peach
+  4. Stand mp -> ex peach
 </pre>
 <li>Take the landing frame throws. They'll most likely be brimstones, so backdash.</li>
 <li>When he calls nadeshiko then I'll call nadeshiko. Otherwise, count to 3 and jump diagonally.</li>
