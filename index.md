@@ -12,11 +12,11 @@ My plan: cultivate and practice better habits that become second nature to me. W
 2 biggest lessons from last night:
 
 - Frame data isn't everything. But it sure does help.
-- Probably the biggest lesson over all though is when I remembered a story as the score was 4-4 and I was down to 25% health to the oppents 100% health:
+- Probably the biggest lesson over all though is from a story I remembered in the second round of the game where the score was 4-4, and looking at the opponents 100% health bar versus my 25%:
 
 #### The Boiling Frog
 
-"The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death. The story is often used as a metaphor for the inability or unwillingness of people to react to or be aware of sinister threats that arise gradually rather than suddenly."
+The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death. The story is often used as a metaphor for the inability or unwillingness of people to react to or be aware of sinister threats that arise gradually rather than suddenly.
 
 Adaptation and awareness is key. The journey continues!
 
