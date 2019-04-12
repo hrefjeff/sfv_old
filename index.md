@@ -1,5 +1,25 @@
 # Jeffrey's Street Fighter 5 Blog
 
+## Money Match at the Local (Post-fight)
+### 2019-04-12
+
+WWWwwelp. I lost. 4-5. I was up 4-1 at one point and then I blew it. I watched the replay. I started deviating from the game plan. In the matches leading up to the end I fell back to bad habits. Random Ex.Peach, not low profiling the cr.mk, getting baited into the corner. All that jazz.
+
+We live to fight another day though. It's not about how hard hit though, it's about how hard you can take a hit and get back up. So I ask myself these simple question: How are you going to respond to this? Will you learn this time?
+
+My plan: cultivate and practice better habits that become second nature to me. What I am currently practicing is not setting me up for how I want to grow as a SFV player at all. So stop mashing 3 frame buttons to bail me out of situations, start being aware of where the shift of what is starting to be blocked and develop a new plan, and be _patient_.
+
+2 biggest lessons from last night:
+
+- Frame data isn't everything. But it sure does help.
+- Probably the biggest lesson over all though is when I remembered a story as the score was 4-4 and I was down to 25% health to the oppents 100% health:
+
+#### The Boiling Frog
+
+"The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death. The story is often used as a metaphor for the inability or unwillingness of people to react to or be aware of sinister threats that arise gradually rather than suddenly."
+
+Adaptation and awareness is key. The journey continues!
+
 ## Money Match at the Local (Pre-fight)
 ### 2019-04-11
 <a href="https://media1.tenor.com/images/98f9206f14232c2589e1e82863a8a9da/tenor.gif?itemid=4575322" target="_blank">OOOOOOOOO BOIIIIIIII TODAY IS THE DAYYY!!!</a> THE DAY OF THE MONEY MATCH IN SFV! It will be FT5 between me, Buttnaked, versus the infamous Nikos. The 2 R.Mikas of Huntsville Alabama. It'll be Cincuenta Cincuenta's at its finest. Not only is it for the money ($50), but also for the most important thing. THE RIGHTS TO TALK THAT TRASH! WHO'S GONNA GUESS RIGHT TONIGHT!?
