@@ -12,7 +12,7 @@ My plan: cultivate and practice better habits that become second nature to me. W
 2 biggest lessons from last night:
 
 - Frame data isn't everything. But it sure does help.
-- Probably the biggest lesson over all though is from a story I remembered in the second round of the game where the score was 4-4, and looking at the opponents 100% health bar versus my 25%:
+- Probably the biggest lesson over all though is from the moment I remembered a story in the second round of the game where the score was 4-4, where I'm looking at the opponents 100% health bar versus my 25%:
 
 #### The Boiling Frog
 
