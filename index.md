@@ -5,9 +5,15 @@
 
 WWWwwelp. I lost. 4-5. I was up 4-1 at one point and then I blew it. I watched the replay. I started deviating from the game plan. In the matches leading up to the end I fell back to bad habits. Random Ex.Peach, not low profiling the cr.mk, getting baited into the corner. All that jazz.
 
-We live to fight another day though. It's not about how hard hit though, it's about how hard you can take a hit and get back up. So I ask myself these simple question: How are you going to respond to this? Will you learn this time?
+We live to fight another day. It's not about how hard hit though, it's about how hard you can take a hit and get back up. So I ask myself these simple questions: How are you going to respond to this? Will you learn this time?
 
-My plan: cultivate and practice better habits that become second nature to me. What I am currently practicing is not setting me up for how I want to grow as a SFV player at all. So stop mashing 3 frame buttons to bail me out of situations, start being aware of where the shift of what is starting to be blocked and develop a new plan, and be _patient_.
+#### My plan
+
+Cultivate and practice better habits that become second nature to me. What I am currently practicing is not setting me up for how I want to grow as a SFV player at all. So:
+
+- Stop mashing 3 frame buttons to bail me out of situations
+- Start being aware of adaptations and develop a new plan (by asking myself questions like how am I taking damage? How am I dealing damage? What will the opponent do in this situation that have already been in?)
+- Be _patient_ by avoiding large movements (such as dash up grab/3f) when my health is below 20%.
 
 2 biggest lessons from last night:
 
