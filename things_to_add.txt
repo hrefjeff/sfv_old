@@ -30,8 +30,10 @@ Here's a summary of how I go about doing these things (or need to start doing):
 
 2. Search for replays
 
-
+    I always make sure to look at people who are better than me. I believe it useful to find someone who is a little bit more skillful than you rather than a very wide skill gap. This is because you as a player will not automagically ingest all the information that comes from a player's movement but just looking at them. Basically, the player with a large skill gap from yours will have too much going on that you are not be prepared to understand yet. This is opposed to watching a replay from a player with slight/moderate difference in skill that you can learn from because you'll notice them getting into situtations more like the ones you'll be put in.
+    
 3. Find a favorite to learn from
+
 4. Muscle memory drills
 5. Learn matchups in detail
 6. Sharpen reactions
