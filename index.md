@@ -3,9 +3,9 @@
 ## Money Match at the Local (Post-fight)
 ### 2019-04-12
 
-WWWwwelp. I lost. 4-5. I was up 4-1 at one point and then I blew it. I watched the replay. I started deviating from the game plan. In the matches leading up to the end I fell back to bad habits. Random Ex.Peach, not low profiling the cr.mk, getting baited into the corner. All that jazz.
+WWWwwelp. I lost. 4-5. I was up 4-1 at one point and then I blew it. I watched the replay. I started deviating from the game plan. In the matches leading up to the end I fell back to bad habits. Random Ex.Peach, not low profiling the drop kick with cr.mk, getting baited into the corner. All that jazz.
 
-We live to fight another day. It's not about how hard hit though, it's about how hard you can take a hit and get back up. So I ask myself these simple questions: How are you going to respond to this? Will you learn this time?
+We live to fight another day. It's not about how hard you hit though, it's about how hard you can take a hit and get back up. So I ask myself these simple questions: How are you going to respond to this? Will you learn this time?
 
 #### My plan
 
