@@ -15,15 +15,17 @@ Translate this to sfv
 
 ## How I went about getting better
 
-Recently had a friend (yizzzy) refer me to a vidjya on getting better. I've seen bits and pieces of it but decided to compare this list to how I try to get better. So the video is 7 tips for improving in SFV and the link is https://www.youtube.com/watch?v=B7qFzQF9Iw8
+I recently had a friend (yizzzy) refer me to some videos on getting better in Street Fighter 5. The video is called, "7 Tips For Improving In SFV" and can be found by clicking [here](https://www.youtube.com/watch?v=B7qFzQF9Iw8). In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in why and how to follow these steps.
 
-Here's a summary of how I personally go about doing these things (or need to start doing): 
+So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
 1. Study your replays
 
-  I definitely do this by going to CFN and watching replays with both key display and frame data on.
-  One thing I could do better though is analyze buttons the opponent is pressing on wakeup or when they get counter hit.
-  Generally though, I take Frame Advantages approach when analyzing my matches (video can be found here: https://www.youtube.com/watch?v=SJV-K0rLOC0 ). Tyrant and Packz say to answer these 3 questions:
+  I definitely do this because of the sheer convinience going on CFN and watching replays with both "_key display_" and "_frame data_" on. One thing I could do better though is to analyze buttons my opponent is pressing on wakeup or when they get counter hit. I believe Chris T. goes back to his replays he played a couple weeks prior so he is kind of looking at the replay with a fresh pair of eyes. 
+  
+  I'll analyze my game in 2 phases when I watch a replay of my game. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on.
+  
+  The specific details I draw from my replays are by following [Frame Advantages' approach](https://www.youtube.com/watch?v=SJV-K0rLOC0). So I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
   * How did I take damage?
   * I can I optimize my damage?
   * How did I get into the bad situation in the first place?
