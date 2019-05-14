@@ -17,16 +17,16 @@ Translate this to sfv
 
 Recently had a friend (yizzzy) refer me to a vidjya on getting better. I've seen bits and pieces of it but decided to compare this list to how I try to get better. So the video is 7 tips for improving in SFV and the link is https://www.youtube.com/watch?v=B7qFzQF9Iw8
 
-Here's a summary of how I go about doing these things (or need to start doing): 
+Here's a summary of how I personally go about doing these things (or need to start doing): 
 
 1. Study your replays
 
   I definitely do this by going to CFN and watching replays with both key display and frame data on.
   One thing I could do better though is analyze buttons the opponent is pressing on wakeup or when they get counter hit.
   Generally though, I take Frame Advantages approach when analyzing my matches (video can be found here: https://www.youtube.com/watch?v=SJV-K0rLOC0 ). Tyrant and Packz say to answer these 3 questions:
-  1. How did I take damage?
-  2. I can I optimize my damage?
-  3. How did I get into the bad situation in the first place?
+  * How did I take damage?
+  * I can I optimize my damage?
+  * How did I get into the bad situation in the first place?
 
 2. Search for replays
 
@@ -38,3 +38,6 @@ Here's a summary of how I go about doing these things (or need to start doing):
 5. Learn matchups in detail
 6. Sharpen reactions
 7. Take notes/set goals
+    monday reddit tourneys
+    
+Other things I did. Get social. Join a discord. Find a google doc that is maintained by a community about a specific character ( like the r mika bible https://docs.google.com/document/d/1aBEIXYX51TmdEZ_nh6dydHxJXwED7kZNsfLKENanca0/ or the ryu bible _get link_ )
