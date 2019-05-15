@@ -22,7 +22,7 @@ So without further ado, here's a summary of how I personally went about getting 
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
-This isn't in the video but I had to find a place somewhere early on in this post to stress this.
+This isn't in the video but I had to find a place somewhere early on in this post to stress this. Shoutouts to the SFV players like _**TODO: Add twitter links**_ Tajh, Caleb, Dalian, Henry, Jeffery, and alot of others in my local fight scene for teaching me about fighting games in general.
 
 ### <a name="head1"></a>Step 1. Study your replays
 
