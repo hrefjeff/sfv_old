@@ -3,7 +3,7 @@
 ## How I went about getting better at Street Fighter 5
 ### 2019-05-15
 
-I made it a goal in a previous post to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I am continuously trying to get my head wrapped around. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall I will hopefully save some else some bruises for that is going through the same process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better.
+I made it a goal in a previous post to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I am continuously trying to get my head wrapped around. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall I will hopefully save some else some bruises along the way with this process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better.
 
 Recently, my friend [yizzzy](https://twitter.com/YichiYen) shared a video with me on getting better in Street Fighter 5. It's called "7 Tips For Improving In SFV" and can be found by clicking [here](https://www.youtube.com/watch?v=B7qFzQF9Iw8). In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in on the topics.
 
@@ -30,7 +30,7 @@ If I'm having trouble developing a strategy against a certain character or gener
     
 ### 3. Find a favorite to learn from
 
-This is so helpful it's not even funny!! There is always someone better than you and outworking you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good to get out of your little bubble and get an outside perspective. This gets into the social aspect of the game where I describe later.
+This is so helpful it's not even funny!! Until we are winning premiere and major tournmanets There is always someone better than you and outworking you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good to get out of your little bubble and get an outside perspective. This gets into the social aspect of the game where I describe later.
 
 ### 4. Muscle memory drills
 
