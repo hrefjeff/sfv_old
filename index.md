@@ -68,7 +68,7 @@ So taking notes and writing things down can help in setting goals. My goals in t
     
 ### <a name="head8"></a>8. Accept responsibility
  
-This isn't in the video and I won't speak too much on this subject. I just believe it is worth mentioning. I try to accept responsibility and holding myself accountable for my own decisions and actions. I ask questions all day but relying on the phrase "I haven't learned that yet" or "No one told me about that" only took me so far. I play my game with the philosphy of, "Play as if you are a master, but learn like you are a student."
+This isn't in the video and I won't speak too much on this subject. I just believe it is worth mentioning. I try to accept responsibility and hold myself accountable for my own decisions and actions. I ask questions all day but relying on the phrase "I haven't learned that yet" or "No one told me about that" only took me so far. I play my game with the philosphy of, "Play as if you are a master, but learn like you are a student."
 
 ### <a name="head9"></a>9. Other things or stuff that deserve a whole post on their own
     
