@@ -22,7 +22,7 @@ So without further ado, here's a summary of how I personally went about getting 
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
-This isn't in the video but I had to find somewhere early on in this entry to stress this.
+This isn't in the video but I had to find a place somewhere early on in this post to stress this.
 
 ### <a name="head1"></a>Step 1. Study your replays
 
