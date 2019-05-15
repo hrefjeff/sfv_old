@@ -9,11 +9,11 @@ Recently, my friend [yizzzy](https://twitter.com/YichiYen) shared a video with m
 
 So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
-### 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
+### Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
 This isn't in the video but I had to find somewhere early to stress this.
 
-### 1. Study your replays
+### Step 1. Study your replays
 
 I wholeheartedly agree with doing this because of the great job Capcom has done with SFV's replay abilities. I'll constantly go on CFN (capcom fighter's network) and watch replays with both of the options "_key display_" and "_frame data_" turned on. Just like in the video, I believe replays of your losses provide you a great basis for what you can work on. I believe Chris Tatarian (a SoCal Ken player) does this thing where he searches for a replay of his that dates back to to a couple weeks prior so he is kind of looking at the replay with a fresh pair of eyes.
   
