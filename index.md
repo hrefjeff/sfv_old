@@ -13,9 +13,10 @@ Recently, my friend <a href="https://twitter.com/YichiYen" target="_blank">yizzz
   3. [Find a favorite to learn from](#head3)
   4. [Muscle memory drills](#head4)
   5. [Learn matchups in detail](#head5)
-  6. [Take notes/set goals](#head6)
-  7. [Accept responsibility](#head7)
-  8. [Other things or stuff that deserve a whole post on their own](#head8)
+  6. [Sharpen your reactions](#head6)
+  7. [Take notes/set goals](#head7)
+  9. [Accept responsibility](#head8)
+  9. [Other things or stuff that deserve a whole post on their own](#head9)
 
 So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
