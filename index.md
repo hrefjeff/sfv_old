@@ -7,16 +7,16 @@ I made it a goal in a previous post to explain something I didn't understand whe
 
 Recently, my friend <a href="https://twitter.com/YichiYen" target="_blank">yizzzy</a> shared a video with me on getting better in Street Fighter 5. It's called "7 Tips For Improving In SFV" and can be found by clicking <a href="https://www.youtube.com/watch?v=B7qFzQF9Iw8" target="_blank">here</a>. In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in on the topics. Overview of topics:
 
-  0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)
-  1. [Study your replays](#head1)
-  2. [Search for replays](#head2)
-  3. [Find a favorite to learn from](#head3)
-  4. [Muscle memory drills](#head4)
-  5. [Learn matchups in detail](#head5)
-  6. [Sharpen your reactions](#head6)
-  7. [Take notes/set goals](#head7)
-  9. [Accept responsibility](#head8)
-  9. [Other things or stuff that deserve a whole post on their own](#head9)
+  Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)
+  Step 1. [Study your replays](#head1)
+  Step 2. [Search for replays](#head2)
+  Step 3. [Find a favorite to learn from](#head3)
+  Step 4. [Muscle memory drills](#head4)
+  Step 5. [Learn matchups in detail](#head5)
+  Step 6. [Sharpen your reactions](#head6)
+  Step 7. [Take notes/set goals](#head7)
+  Step 8. [Accept responsibility](#head8)
+  Step 9. [Other things or stuff that deserve a whole post on their own](#head9)
 
 So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
