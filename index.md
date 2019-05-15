@@ -3,7 +3,7 @@
 ## How I went about getting better at Street Fighter 5
 ### 2019-05-15
 
-In a previous post I made it a goal to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I had. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall, I will hopefully save some bruises for whoever else is going through the same process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better.
+I made it a goal in a previous post to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I am continuously trying to get my head wrapped around. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall I will hopefully save some else some bruises for that is going through the same process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better.
 
 Recently, my friend [yizzzy](https://twitter.com/YichiYen) shared a video with me on getting better in Street Fighter 5. It's called "7 Tips For Improving In SFV" and can be found by clicking [here](https://www.youtube.com/watch?v=B7qFzQF9Iw8). In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in on the topics.
 
