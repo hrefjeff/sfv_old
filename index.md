@@ -70,7 +70,7 @@ This isn't in the video and I won't speak too much on this subject. I just belie
 
 ### <a name="head9"></a>9. Other things or stuff that deserve a whole post on their own
     
-Get social. Join a discord. Find a google doc that is maintained by a community about a specific character (like the [R.Mika bible](https://docs.google.com/document/d/1aBEIXYX51TmdEZ_nh6dydHxJXwED7kZNsfLKENanca0/).
+Get social. Join a discord. Find a google doc that is maintained by a community about a specific character (like the <a href="https://docs.google.com/document/d/1aBEIXYX51TmdEZ_nh6dydHxJXwED7kZNsfLKENanca0/" target="_blank">R.Mika bible</a>)).
 
 ## Money Match at the Local (Post-fight)
 ### 2019-04-12
