@@ -31,7 +31,7 @@ I wholeheartedly agree with studying replay of yourself because of the great job
 "But Jeffrey, what am I supposed to be looking for in my a replays!?" I'm glad you asked! I'll analyze my game by watching my replay in 2 phases. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on. The details I find most important and helpful in getting better is by using 
 <a href="https://www.youtube.com/watch?v=SJV-K0rLOC0" target="_blank">Frame Advantages' approach</a>. So I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
   * How did I take damage?
-  * I can I optimize my damage?
+  * How can I optimize my damage?
   * How did I get into the bad situation in the first place?
 
 ### <a name="head2"></a>2. Search for replays
