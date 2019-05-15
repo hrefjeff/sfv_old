@@ -16,7 +16,7 @@ Recently, my friend <a href="https://twitter.com/YichiYen" target="_blank">yizzz
   Step 6. [Sharpen your reactions](#head6)<br>
   Step 7. [Take notes/set goals](#head7)<br>
   Step 8. [Accept responsibility](#head8)<br>
-  Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br><br>
+  Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br>
 
 So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
