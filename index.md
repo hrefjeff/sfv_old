@@ -74,6 +74,8 @@ This isn't in the video and I won't speak too much on this subject. I just belie
     
 Get social. Join a discord. Find a google doc that is maintained by a community about a specific character (like the <a href="https://docs.google.com/document/d/1aBEIXYX51TmdEZ_nh6dydHxJXwED7kZNsfLKENanca0/" target="_blank">R.Mika bible</a>).
 
+<hr>
+
 ## Money Match at the Local (Post-fight)
 ### 2019-04-12
 
