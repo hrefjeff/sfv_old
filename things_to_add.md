@@ -13,19 +13,23 @@ Translate this to sfv
        For example, saying something like "I can't deal with ~insert character's annoying move here~" lends itself to pinning yourself into a corner. Instead, I rephrase the sentence like, "I am currently struggling with ~insert character's annoying move here~". That sentence sets the mind to interpret the situation as something you can grow from. Mainly because of the word "currently". Current = now. And just because it's happening now, doesn't mean it always will be. You can grow.
        In order to be successful, I believe you need to have the idea that you can cultivate a skill. If you just outright say
 
-## How I went about getting better
+## How I went about getting better at Street Fighter 5
 
-I recently had a friend (yizzzy) refer me to some videos on getting better in Street Fighter 5. The video is called, "7 Tips For Improving In SFV" and can be found by clicking [here](https://www.youtube.com/watch?v=B7qFzQF9Iw8). In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in why and how to follow these steps.
+In a previous post I made it a goal to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I had. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall, I will hopefully save some bruises for whoever else is going through the same process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better.
+
+Recently, my friend [yizzzy](https://twitter.com/YichiYen) shared a video with me on getting better in Street Fighter 5. It's called "7 Tips For Improving In SFV" and can be found by clicking [here](https://www.youtube.com/watch?v=B7qFzQF9Iw8). In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in on the topics.
 
 So without further ado, here's a summary of how I personally went about getting better at SF5 using the points from the video as a guideline: 
 
+0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
+
+    This isn't in the video but I had to find somewhere early to stress this.
+
 1. Study your replays
 
-  I definitely do this because of the sheer convinience going on CFN and watching replays with both "_key display_" and "_frame data_" on. One thing I could do better though is to analyze buttons my opponent is pressing on wakeup or when they get counter hit. I believe Chris T. goes back to his replays he played a couple weeks prior so he is kind of looking at the replay with a fresh pair of eyes. 
+  I wholeheartedly agree with doing this because of the great job Capcom has done with SFV's replay abilities. I'll constantly go on CFN (capcom fighter's network) and watch replays with both of the options "_key display_" and "_frame data_" turned on. Just like in the video, I believe replays of your losses provide you a great basis for what you can work on. I believe Chris Tatarian (a SoCal Ken player) does this thing where he searches for a replay of his that dates back to to a couple weeks prior so he is kind of looking at the replay with a fresh pair of eyes.
   
-  I'll analyze my game in 2 phases when I watch a replay of my game. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on.
-  
-  The specific details I draw from my replays are by following [Frame Advantages' approach](https://www.youtube.com/watch?v=SJV-K0rLOC0). So I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
+  But Jeffrey, what am I looking for in my a replays? Glad you asked! I'll analyze my game by watching my replay in 2 phases. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on. The details I target, or find most important in getting better, is by using [Frame Advantages' approach](https://www.youtube.com/watch?v=SJV-K0rLOC0). So I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
   * How did I take damage?
   * I can I optimize my damage?
   * How did I get into the bad situation in the first place?
