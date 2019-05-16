@@ -54,7 +54,7 @@ So before a ranked grind session or tournament, I'll do something called laps by
 
 I don't do this to the extent I should. It is definitely something I can work on. There are levels to everything but this is one where you can go deep down the rabit hole. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
     
-Then I'll go on down the list of opponenents I have faced and for each one figure out how my character can respond with when they throw out their array of moves. It should get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. I recently learned more about the Karin Vs. Laura matchup. Laura has to play very risky because her buttons are not as good as Karin's in the neautral range. So they'll dash and overhead more than usual in order to get a knock down.
+I'll go on down the list of opponenents I have faced and for each one try and figure out how my character can correctly respond with an opponents array of moves. The goal is to get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. For instance, I recently learned more about the Karin Vs. Laura matchup. Laura has to play very risky because her buttons are not as good as Karin's in the neutral range. So in using that information that will set me up to look for dashes and overheads more than usual because that's her general effective game plan.
 
 ### <a name="head6"></a>6. Sharpen reactions
 
@@ -62,7 +62,7 @@ This is another thing I need to work on. Go the the lab and set the dummy to eit
 
 ### <a name="head7"></a>7. Take notes/set goals
 
-The way I take notes is with a journal. I'll make notes of my performance at the end of the day so I can visually keep track of my progress/mistakes. When all the details are in the head, it's hard to reflect upon. You have to get it out on paper. Or even in a blog, similar to the one I'm writing for people to read right now.
+The way I take notes is with a journal. I'll make notes of my performance at the end of the day so I can visually keep track of my progress/mistakes. When all the details are in my head, it's hard for me to reflect upon. I have to get it out on paper. Or even in a blog, similar to the one I'm writing for people to read right now.
     
 So taking notes and writing things down can help in setting goals. My goals in the beginning were things like consistenly land a punish combo. If I'm getting countered alot, stop pressing a button or doing the move and evaluate why I'm getting hit. Your goals will make you a stronger player when it's time to perform against other folks. I enter into tournaments all the time to evaluate what I've been working on. Reddit hosts an online tournment every Monday. I do this as a measure of what I've been working on. Everyone is different though. Competition is not everything. It is just my ninja way.
     
