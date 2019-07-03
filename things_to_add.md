@@ -18,11 +18,25 @@ Translate this to sfv
 
 ## Ricky Ortiz Match
 
+Dansetsu explained to us about small victories. He spoke about his st.mk w/ sagat which leads to opponent making irrational decisions to get around the problem. Mainly jumping or dashing. I also got baited out alot to jump when Ricky used st.hp and st.mp. 
+
 ## Loser's Semi vs Akuma
 
 ### Game 1
+#### Round 1
 
-### Round 1
-### Round 2
+Got jumped in on 3 times w/o punishing it. Not even a cr.HP.
 
-# Game 2
+#### Round 2
+
+Throws started working then I randomly abandonded the tactic
+
+### Game 2
+
+Akuma's target combo st.HP -> st.HP put him out of range of cr.mp -> cr.mk -> tenko. Should just do cr.mk -> tenko.
+
+### Game 3
+
+I back teched 3 times in a row. Need to start mixing up the wake up options.
+
+Generally my meaties were off.
