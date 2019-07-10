@@ -27,6 +27,9 @@ Dansetsu explained to us about small victories. He spoke about his st.mk w/ saga
 ## Loser's Semi vs Akuma
 
 ### Game 1
+
+Lost it
+
 #### Round 1
 
 Got jumped in on 3 times w/o punishing it. Not even a cr.HP.
@@ -35,11 +38,15 @@ Got jumped in on 3 times w/o punishing it. Not even a cr.HP.
 
 Throws started working then I randomly abandonded the tactic
 
-### Game 2
+## Game 2
+
+Won it
 
 Akuma's target combo st.HP -> st.HP put him out of range of cr.mp -> cr.mk -> tenko. Should just do cr.mk -> tenko.
 
 ### Game 3
+
+Lost it
 
 I back teched 3 times in a row. Need to start mixing up the wake up options.
 
