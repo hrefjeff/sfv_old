@@ -61,5 +61,5 @@ Generally my meaties were off.
 
 Antolin called me out on something that allowed some concepts to finally click. "You're trying to do something without setting it up." Mainly, I was trying to shimmy without establishing a throw game. This lead into me thinking about how I try to whiff punish things without establishing that I'm pressing buttons to try to bait them into throwing out a heavy button.
 
-I played Persia (a good ken player). He 10-0'd me. I learned alot though. Mainly about spacing and buffering. He used st.lk and buffered into ex.tatsu. Even though I knew what he was looking for, he still punished me for whiffing in front of his face. What I needed to do was walk up and do nothing. I'd bounce in and out of range and 
+I played Persia (a good ken player). He 10-0'd me. I learned alot though. Mainly about spacing and buffering. He used st.lk and buffered into ex.tatsu. Even though I knew what he was looking for, he still punished me for whiffing in front of his face. What I needed to do was walk up and do nothing. I'd bounce in and out of range and always press when I come back in. Gonna try bouncing in and out and then just waiting.
 
