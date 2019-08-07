@@ -6,13 +6,14 @@ I'm doing a 3 month long hitbox journey. My mindset going in to this is that I'm
 
 Everytime I waited on something today I practiced my 4+3 inputs.
 Whether it was waiting on food, waiting at a red light, or waiting for an ad on a video to be done.
-I'm applying the first lesson and slowing it down to become familiar with it and speeding it up gradually.
 
 ### _Taking Densetsu's advice_
 
-I went ahead and started playing Hollow Knight.
+I'm applying the first lesson and slowing it down to become familiar with it and speeding it up gradually.
+
+Also, I started playing Hollow Knight.
 It's a super dope side scrolling game and fits the hitbox perfectly.
-Moving became easier within 30 minutes of playing.
+Movement became easier within 30 minutes of playing.
 
 ## Day 1
 
