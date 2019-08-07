@@ -2,7 +2,7 @@
 
 I'm doing a 3 month long hitbox journey. My mindset going in to this is that I'm going to lose alot in the beginning. After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
 
-## Day 2
+## Day 2 (Aug 7th, 2019)
 
 Everytime I waited on something today I practiced my 4+3 inputs.
 Whether it was waiting on food, waiting at a red light, or waiting for an ad on a video to be done.
@@ -15,7 +15,7 @@ Also, I started playing Hollow Knight.
 It's a super dope side scrolling game and fits the hitbox perfectly.
 Movement became easier within 30 minutes of playing.
 
-## Day 1
+## Day 1 (Aug 6th, 2019)
 
 I used to play guitar for about a year so my left hand has some muscle memory of piano'ing inputs.
 But for all intents and purposes of this journal I'll just give my experience on what I'm working on and how I'm going about getting better with a HB.
