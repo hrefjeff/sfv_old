@@ -8,7 +8,7 @@ Everytime I waited on something today I practiced my 4+3 inputs.
 Whether it was waiting on food, waiting at a red light, or waiting for an ad on a video to be done.
 I'm applying the first lesson and slowing it down to become familiar with it and speeding it up gradually.
 
-### Taking Densetsu's advice
+### _Taking Densetsu's advice_
 
 I went ahead and started playing Hollow Knight.
 It's a super dope side scrolling game and playing on hitbox fits perfectly for this game.
@@ -34,7 +34,7 @@ If I don't get something at first, I'll slow it down and steadily increase the s
 Lastly, he said play a side scroller game and practice navigating menus.
 You don't always have to just play street fighter to learn how to hitbox.
 
-### Biggest problem I found today
+### _Biggest problem I found today_
 
 I found out that walking and blocking on the player 2 side is hard for me.
 The input is switching between 4 and 3 (or L and D+R).
