@@ -11,7 +11,8 @@ I'm applying the first lesson and slowing it down to become familiar with it and
 ### _Taking Densetsu's advice_
 
 I went ahead and started playing Hollow Knight.
-It's a super dope side scrolling game and playing on hitbox fits perfectly for this game.
+It's a super dope side scrolling game and fits the hitbox perfectly.
+Moving became easier within 30 minutes of playing.
 
 ## Day 1
 
