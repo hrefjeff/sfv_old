@@ -20,7 +20,7 @@ Movement became easier within 30 minutes of playing.
 I used to play guitar for about a year so my left hand has some muscle memory of piano'ing inputs.
 But for all intents and purposes of this journal I'll just give my experience on what I'm working on and how I'm going about getting better with a HB.
 
-I tuned in to Piano Densetsu's stream.
+I tuned in to (Piano Densetsu's)[https://twitter.com/PianoDensetsu] stream.
 He had some great advice on getting started with hitbox.
 I asked him the question, "What do you wish you would have known when you first started using the hitbox?"
 His reply was that he wish he knew more of how to practice.
