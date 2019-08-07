@@ -2,7 +2,7 @@
 
 I'm doing a 3 month long hitbox journey. My mindset going in to this is that I'm going to lose alot in the beginning. After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
 
-## *Day 2 (Aug 7th, 2019)*
+## Day 2 (Aug 7th, 2019)
 
 Everytime I waited on something today I practiced my 4+3 inputs.
 Whether it was waiting on food, waiting at a red light, or waiting for an ad on a video to be done.
