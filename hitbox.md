@@ -3,6 +3,7 @@
 I'm doing a 3 month long hitbox journey.
 My mindset going in to this is that I'm going to lose alot in the beginning.
 After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
+Sidenote: I'll use the number key to describe motions (1,2,3,4,5,6,7,8,9)
 
 ## Day 3 (Aug 8th, 2019)
 
@@ -10,7 +11,7 @@ After 3 months have gone by I hope to figure out if I want to stick with it or s
 
 I decided to go with Ryu.
 He's a basic bitch that has a moveset that overlaps with a majority of the cast.
-So if I decide to go learn another character I'll have the basics down at least.
+I believe that will help me 
 What I was originally going to do was either learn Zeku or Honda.
 Zeku has 2 forms so essentially is learning 2 characters.
 Honda is a charge character and I believe he'll be my 2nd or 3rd character I learn if I ever decide to.
@@ -18,15 +19,21 @@ Honda is a charge character and I believe he'll be my 2nd or 3rd character I lea
 ### Summary
 
 I could tell I felt a little more comfortable with the inputs.
+Switching between 4 and 3 has become easier.
 Warm up with SFV currently:
   1. 50 fireballs each side
   1. 50 tatsu's each side
+  1. 50 cr.mk -> fireball each side
+  1. 10 tatsu -> CA
   1. BnB combos:
       1. cr.lk -> cr.lp -> h.dp
       1. st.lp -> st.lp -> st.lk -> lk.donkey kick
       1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
+  1. 50 ex.fireball -> vt.activate -> dash -> h.dp
+  1. 50 empty jump cross up -> cr.lk -> cr.lp -> h.dp
 
-I still mash though whenever I haven't thought about what move I want to do next.
+I still mash though whenever I haven't thought through a combo.
+Need to stop doing that!
 
 ## Day 2 (Aug 7th, 2019)
 
