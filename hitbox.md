@@ -1,6 +1,31 @@
 # Hitbox Journal
 
-I'm doing a 3 month long hitbox journey. My mindset going in to this is that I'm going to lose alot in the beginning. After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
+I'm doing a 3 month long hitbox journey.
+My mindset going in to this is that I'm going to lose alot in the beginning.
+After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
+
+## Day 3 (Aug 8th, 2019)
+
+### _Character Selection_
+
+I decided to go with Ryu.
+He's a basic bitch that has a moveset that overlaps with a majority of the cast.
+So if I decide to go learn another character I'll have the basics down at least.
+What I was originally going to do was either learn Zeku or Honda.
+Zeku has 2 forms so essentially is learning 2 characters.
+Honda is a charge character and I believe he'll be my 2nd or 3rd character I learn if I ever decide to.
+
+### Summary
+
+I could tell I felt a little more comfortable with the inputs.
+Warm up with SFV currently:
+  1. 50 fireballs each side
+  2. 50 tatsu's each side
+  3. BnB combos:
+    a. cr.lk -> cr.lp -> h.dp
+    b. st.lp -> st.lp -> st.lk -> lk.donkey kick
+    c. j.hk -> st.mp -> cr. 
+I still mash though whenever I haven't thought about what move I want to do next.
 
 ## Day 2 (Aug 7th, 2019)
 
