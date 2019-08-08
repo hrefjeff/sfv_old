@@ -3,7 +3,6 @@
 I'm doing a 3 month long hitbox journey.
 My mindset going in to this is that I'm going to lose alot in the beginning.
 After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
-Sidenote: I'll use the number key to describe motions (1,2,3,4,5,6,7,8,9)
 
 ## Day 3 (Aug 8th, 2019)
 
@@ -29,6 +28,7 @@ Warm up with SFV currently:
       1. cr.lk -> cr.lp -> h.dp
       1. st.lp -> st.lp -> st.lk -> lk.donkey kick
       1. st.mp -> st.mp -> tatsu
+      1. st.mp -> st.mp -> ex.jordan kick -> h.dp
       1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
   1. 50 ex.fireball -> vt.activate -> dash -> h.dp
   1. 50 empty jump cross up -> cr.lk -> cr.lp -> h.dp
