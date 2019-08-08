@@ -16,7 +16,7 @@ What I was originally going to do was either learn Zeku or Honda.
 Zeku has 2 forms so essentially is learning 2 characters.
 Honda is a charge character and I believe he'll be my 2nd or 3rd character I learn if I ever decide to.
 
-### Summary
+### _Today's Summary_
 
 I could tell I felt a little more comfortable with the inputs.
 Switching between 4 and 3 has become easier.
