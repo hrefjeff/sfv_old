@@ -22,9 +22,9 @@ Warm up with SFV currently:
   1. 50 fireballs each side
   1. 50 tatsu's each side
   1. BnB combos:
-    1. cr.lk -> cr.lp -> h.dp
-    1. st.lp -> st.lp -> st.lk -> lk.donkey kick
-    1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
+      1. cr.lk -> cr.lp -> h.dp
+      1. st.lp -> st.lp -> st.lk -> lk.donkey kick
+      1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
 
 I still mash though whenever I haven't thought about what move I want to do next.
 
