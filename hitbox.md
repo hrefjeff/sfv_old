@@ -20,11 +20,11 @@ Honda is a charge character and I believe he'll be my 2nd or 3rd character I lea
 I could tell I felt a little more comfortable with the inputs.
 Warm up with SFV currently:
   1. 50 fireballs each side
-  2. 50 tatsu's each side
-  3. BnB combos:
-    * cr.lk -> cr.lp -> h.dp
-    * st.lp -> st.lp -> st.lk -> lk.donkey kick
-    * j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
+  1. 50 tatsu's each side
+  1. BnB combos:
+    1. cr.lk -> cr.lp -> h.dp
+    1. st.lp -> st.lp -> st.lk -> lk.donkey kick
+    1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
 
 I still mash though whenever I haven't thought about what move I want to do next.
 
