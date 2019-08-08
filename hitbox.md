@@ -52,9 +52,6 @@ Movement became easier within 30 minutes of playing.
 
 ## Day 1 (Aug 6th, 2019)
 
-I used to play guitar for about a year so my left hand has some muscle memory of piano'ing inputs.
-But for all intents and purposes of this journal I'll just give my experience on what I'm working on and how I'm going about getting better with a HB.
-
 I tuned in to <a href="https://twitter.com/PianoDensetsu" target="_blank">Piano Densetsu's</a> stream.
 He had some great advice on getting started with hitbox.
 I asked him the question, "What do you wish you would have known when you first started using the hitbox?"
@@ -64,7 +61,7 @@ he rested his hand on a flat surface and practiced lifting each finger up one at
 After a couple of days doing this should get more fluid (especially for the commonly problematic ring finger).
 I've been doing this off and on but I plan on making this more consistent.
 
-Also he stressed on practicing clean inputs.
+Also, he stressed on practicing clean inputs.
 So don't rush the inputs.
 If I don't get something at first, I'll slow it down and steadily increase the speed.
 
@@ -76,3 +73,10 @@ You don't always have to just play street fighter to learn how to hitbox.
 I found out that walking and blocking on the player 2 side is hard for me.
 The input is switching between 4 and 3 (or L and D+R).
 I notice when I lift up my ring finger, my index finger is the first to go down followed by my middle finger.
+
+## Precursor
+
+I've played on both pad and stick in the past.
+I used to play guitar for about a year so my left hand has some muscle memory of piano'ing inputs.
+I played trumpet and saxaphone too so my right hand has some muscle memory too.
+For all intents and purposes of this journal I'll just give my experience on what I'm working on and how I'm going about getting better with a HB.
