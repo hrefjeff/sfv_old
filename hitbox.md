@@ -11,10 +11,9 @@ Sidenote: I'll use the number key to describe motions (1,2,3,4,5,6,7,8,9)
 
 I decided to go with Ryu.
 He's a basic bitch that has a moveset that overlaps with a majority of the cast.
-I believe that will help me 
-What I was originally going to do was either learn Zeku or Honda.
-Zeku has 2 forms so essentially is learning 2 characters.
-Honda is a charge character and I believe he'll be my 2nd or 3rd character I learn if I ever decide to.
+I believe that will help me be able to transition easily to whatever character I'd like to play next.
+The original plan was to either learn Zeku or Honda.
+In the interest of learning hitbox I thought it best to start with an easier character.
 
 ### _Today's Summary_
 
