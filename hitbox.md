@@ -21,13 +21,15 @@ Honda is a charge character and I believe he'll be my 2nd or 3rd character I lea
 I could tell I felt a little more comfortable with the inputs.
 Switching between 4 and 3 has become easier.
 Warm up with SFV currently:
+  1. 10 laps (dashing from one side of the stage to the other)
   1. 50 fireballs each side
   1. 50 tatsu's each side
   1. 50 cr.mk -> fireball each side
-  1. 10 tatsu -> CA
+  1. 50 donkey kicks each side
   1. BnB combos:
       1. cr.lk -> cr.lp -> h.dp
       1. st.lp -> st.lp -> st.lk -> lk.donkey kick
+      1. st.mp -> st.mp -> tatsu
       1. j.hk -> st.mp -> cr.hp -> hk.tatsu (mk.tatsu if close to corner)
   1. 50 ex.fireball -> vt.activate -> dash -> h.dp
   1. 50 empty jump cross up -> cr.lk -> cr.lp -> h.dp
