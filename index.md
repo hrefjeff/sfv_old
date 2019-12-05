@@ -1,6 +1,15 @@
 # Jeffrey's Street Fighter 5 Blog
 
 ## How I went about getting better at Street Fighter 5
+### 2019-12-05
+
+I hope to pracitce humility today at my local more than anything. I requested a FT10 with the 2nd best SFV player at my local scene. Usually, we play don't play serious for very long. After a couple games we resort to picking secondaries and mucking around without truly learning anything. This time we're trying to achieve 10 victories in 1 sitting.
+
+Pride is seen as something we should have in modern society. "Feel good about yourself" or "Be proud of who you are" type deal. These principles aren't bad in and of themselves superficially but it can ride a fine line of being arrogant. It's ok to see yourself as better at certain things than others, but the slippery slope is when you start to find yourself thinking that you are better than other people. No religion, political opinion, or even success in life makes you a better person than someone else.
+
+So I hope to remove any sense of pride today in this FT10 so I'll be able conduct a thorough introspection of what I need to work on. Switching characters/input methods has taught me alot but it has also hindered my progress in the short term. I'm confident in my ability to keep a leveled head. I'm not confident in winning the entire battle though. There are so many situations I haven't been exposed to and pitting a player that has practiced with a character for 2 months versus one that has been playing for 3 years will end in predictable results.
+
+## How I went about getting better at Street Fighter 5
 ### 2019-05-15
 
 I made it a goal in a previous post to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I am still trying to get my head wrapped around. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall I will hopefully save some else some bruises along the way in this process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better and using them to the best of my ability.
