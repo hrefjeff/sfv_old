@@ -1,6 +1,6 @@
 # Jeffrey's Street Fighter 5 Blog
 
-## How I went about getting better at Street Fighter 5
+## FT10 with Tajh's Nash Before Season End
 ### 2019-12-05
 
 I hope to pracitce humility today at my local more than anything. I requested a FT10 with the 2nd best SFV player at my local scene. Usually, we don't play serious for very long. After a couple games we resort to picking secondaries and mucking around without truly learning anything. This time we're trying to achieve 10 victories in 1 sitting.
