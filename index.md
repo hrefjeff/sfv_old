@@ -9,7 +9,7 @@ My very first post here (all the way at the bottom) was when I was playing as a 
 
 Reading through all the content in this blog I did achieve everything I said I was going to do. I went to EVO 2019, wrote a small guide about a topic I didn't understand, got Karin to diamond rank, and learned more about how to practice. I should probably finish this entry off with a couple more goals so I can speak them into existence. Buuut anywho.
 
-In terms of Capcom's SFV season 5 pro tour, it's screwed. COVID-19 has taken every event this year and D-BO'd it ( ["What CPT season?"](https://pbs.twimg.com/profile_images/2332489365/80j9xjunv87p788je6zy.jpeg) ). So this season has started off being a long off season training. Here's a list of books that allowed me to think a little differently while not traveling:
+In terms of Capcom's SFV season 5 pro tour, it's screwed. COVID-19 has taken every event this year and Debo'd it ( ["What CPT season?"](https://pbs.twimg.com/profile_images/2332489365/80j9xjunv87p788je6zy.jpeg) ). So this season has started off being a long off season training. Here's a list of books that allowed me to think a little differently while not traveling:
 
 ### The Book of 5 Rings
 Made me aware of different aspects of strategy.
