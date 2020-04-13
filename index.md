@@ -28,7 +28,7 @@ Samurai's book recommendation. The author was Kobe Bryant's trainer, along with 
 ### Everything is f*#@ed
 This book is one of my favorites and it explores the concept of hope. Every chapter within this book is just well written. It translates very well to fighting games and I'll just simply say go read it.
     
-Goals for now:
+_**Goals for Now**_
 
  1. Achieve twitch affiliate (I might as well try it)
  2. Earn Master rank with zeku
