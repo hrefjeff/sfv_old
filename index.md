@@ -5,7 +5,7 @@
 
 Wow. I just realized it's been about 2 years that has passed since I've began playing SFV and taking it more seriously. What a wild ride! Reading through these posts below got me laughing I'm not gonna lie. The progression, or lack there of, truly amazes me.
 
-My very first post here (all the way at the bottom) was when I was playing as a wifi Ryu on playstation. lmaooooooooooo I'm definitely cringing. But for me to cringe at something I did in the past means I'm able to look back at it and know I grew from it! Now I'm playing zeku (ultra diamond) on a PC over a fiber connection. Oh and I transitioned input devices from using DS4 pad to a hitbox. I even began streaming a little bit on twitch! ([found here](https://www.twitch.tv/boomiFGC))
+My very first post here (all the way at the bottom) was when I was playing as a wifi Ryu on playstation. lmaooooooooooo I'm definitely cringing. But for me to cringe at something I did in the past means I'm able to look back at it and know I grew from it! Now I'm playing zeku (ultra diamond) on a PC over a fiber connection. Oh and I transitioned input devices from using DS4 pad to a hitbox. I even began streaming a little bit [on twitch](https://www.twitch.tv/boomiFGC)!
 
 Reading through all the content in this blog I did achieve everything I said I was going to do. I went to EVO 2019, wrote a small guide about a topic I didn't understand, got Karin to diamond rank, and learned more about how to practice. I should probably finish this entry off with a couple more goals so I can speak them into existence. Buuut anywho.
 
