@@ -9,7 +9,7 @@ My very first post here (all the way at the bottom) was when I was playing as a 
 
 Reading through all the content in this blog I did achieve everything I said I was going to do. I went to EVO 2019, wrote a small guide about a topic I didn't understand, got Karin to diamond rank, and learned more about how to practice. I should probably finish this entry off with a couple more goals so I can speak them into existence. Buuut anywho.
 
-In terms of season 5 SFV, it's screwed. COVID-19 has taken every event this year and D-BO'd it ( ["What CPT season?"](https://pbs.twimg.com/profile_images/2332489365/80j9xjunv87p788je6zy.jpeg) ). So this season has started off being one of introspection. Here's a list of books that allowed me to think a little differently while not traveling:
+In terms of Capcom's SFV season 5 pro tour, it's screwed. COVID-19 has taken every event this year and D-BO'd it ( ["What CPT season?"](https://pbs.twimg.com/profile_images/2332489365/80j9xjunv87p788je6zy.jpeg) ). So this season has started off being a long off season training. Here's a list of books that allowed me to think a little differently while not traveling:
 
 ### The Book of 5 Rings
 Made me aware of different aspects of strategy.
@@ -23,17 +23,17 @@ Allwed me how to begin a sentence with, "I am currently struggling with _whateve
 This book also finally put one of my thoughts I had into words: In order to be successful you need to have the idea that skills can be cultivated. Outright saying "I'm bad at this" without putting any time into it is just a sad thing to let fly. There is this whole discussion on "what about the naturally talented though?" and that's a convo for a different day. (I believe hard work always beats natural talent btw)
 
 ### Relentless
-Samurai's book recommendation. The author was Kobe Bryant's trainer, along with Michael Jordan, Charles Barkley, Dwayne wade and many other professional athletes. He gives his account about what he believes it takes to be a "cleaner", which is different than a "cooler" or a "closer". This translated to my practice routine and how I go about creating myself a regimine.
+Samurai's book recommendation. The author was Kobe Bryant's (rest in peace {I still can't believe I'm saying that yet}) trainer, along with Michael Jordan, Charles Barkley, Dwayne wade and many other professional athletes. He gives his account about what he believes it takes to be a "cleaner", which is different than a "cooler" or a "closer". This translated to my practice routine and how I go about creating myself a regimine.
     
 ### Everything is f*#@ed
-This book is one of my favorites and it explores the concept of hope. Every chapter within this book is just well written. It translates very well to fighting games and I'll just simply say go read it.
+This book is one of my favorites and it explores the concept of hope. I found that it translates to fighting games well. I'd simply say go and read it.
     
 _**Goals for Now**_
 
  1. Achieve twitch affiliate (I might as well try it)
- 2. Earn Master rank with zeku
+ 2. Earn master rank with Zeku
  3. Do a twitter give away
- 4. Get top 8 in the Reddit online tournament
+ 4. Get top 8 in the Reddit Online Tournament
  5. Beat Shade in a FT5 (both Chun and Juri)
 
 ## FT10 with Tajh's Nash Before Season End
