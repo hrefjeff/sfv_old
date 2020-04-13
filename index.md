@@ -1,5 +1,39 @@
 # Jeffrey's Street Fighter 5 Blog
 
+## 2 years
+### 2020-13-04
+
+Wow. I just realized it's been about 2 years that has passed since I've began playing SFV and taking it more seriously. What a wild ride! Reading through these posts below got me laughing I'm not gonna lie. The progression, or lack there of, truly amazes me.
+
+My very first post here (all the way at the bottom) was when I was playing as a wifi Ryu on playstation. lmaooooooooooo I'm definitely cringing. But for me to cringe at something I did in the past means I'm able to look back at it and know I grew from it! Now I'm playing zeku (ultra diamond) on a PC over a fiber connection. Oh and I transitioned input devices from using DS4 pad to a hitbox. I even began streaming a little bit on twitch! ([found here](https://www.twitch.tv/boomiFGC))
+
+Reading through all the content in this blog I did achieve everything I said I was going to do. I went to EVO 2019, wrote a small guide about a topic I didn't understand, got Karin to diamond rank, and learned more about how to practice. I should probably finish this entry off with a couple more goals so I can speak them into existence. Buuut anywho.
+
+In terms of season 5 SFV, it's screwed. COVID-19 has taken every event this year and D-BO'd it ( ["What CPT season?"](https://pbs.twimg.com/profile_images/2332489365/80j9xjunv87p788je6zy.jpeg) ). So this season has started off being one of introspection. Over these last 2 years here's a list of books that allowed me to think a little differently while not traveling:
+
+* The 5 Rings
+  * Made me aware of some different aspects of strategy.
+* Creative Quest
+  * Taught the importance of meditation. Quest love meditates ~30min a day. Bruce Lee did too. Almost all the greats do it. I even began using a guided meditation app called Headspace which has been one the most valuable gifts I could have given myself ([click here to try it!](http://headspace.com/invite/1SDoXxz))
+* Mindset: The New Psychology of Success
+  * Allwed me how to begin a sentence with, "I am currently struggling with _whatever the thing_" instead of "I can't _whatever the thing_". For example, I used to say something like, "I can't deal with Guile's who spam sonic booms." That lended itself to the conversation inherently leading to a deadend. Instead, I rephrased the sentence like, "I am currently struggling with Guile's who spam sonic booms". That small rephrasing subliminally set my mind to interpret the situation as something I could grow from. Mainly because of the word "currently". Current = now. Annnd just because it's happening now, doesn't mean it always will be. You can grow.
+  * This book also finally put one of my thoughts I had into words: In order to be successful you need to have the idea that skills can be cultivated. Outright saying "I'm bad at this" without putting any time into it is just a sad thing to let fly. There is this whole discussion on "what about the naturally talented though?" and that's a convo for a different day. (I believe hard work always beats natural talent btw)
+
+* Relentless
+  * Samurai's book recommendation. The author was Kobe Bryant's trainer, along with Michael Jordan, Charles Barkley, Dwayne wade and many other professional athletes. He gives his account about what he believes it takes to be a "cleaner", which is different than a "cooler" or a "closer". This translated to my practice routine and how I go about creating myself a regimine.
+    
+* Everything is f*#@ed
+  * This book is one of my favorites and it explores the concept of hope. Every chapter within this book is just well written. It translates very well to fighting games and I'll just simply say go read it.
+  
+  
+Goals for now:
+
+1. Get twitch affiliate (I might as well try it)
+2. Master rank with zeku
+3. Do a twitter give away
+4. Get top 8 in the Reddit online tournament
+5. Beat Shade in a FT5 (both Chun and Juri)
+
 ## FT10 with Tajh's Nash Before Season End
 ### 2019-12-05
 
