@@ -1,5 +1,3 @@
-# Jeffrey's Street Fighter 5 Blog
-
 ## 2 years
 ### 2020-13-04
 
