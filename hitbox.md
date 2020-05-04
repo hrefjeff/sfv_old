@@ -8,7 +8,7 @@ I'm still going strong with the hitbox and I still enjoy playing on it! I've tra
 
 I look to Infexious, which is arguabley the best tournament zeku in the world right now that plays on pad, for advice on how to train. He says to repeat an action roughly 2000-3000 times to get it into your muscle memory. It's actually not that much work to do considering the benifits of doing so. To accomplish this efficiently I'll use the pomodoro technique to accomplish this.
 
-The (pomodoro technique)[https://en.wikipedia.org/wiki/Pomodoro_Technique] is essentially an interval timer. I'll set a timer for 1 minute to see how many of a certain move I can do. Then I'll set a timer for 10 minutes and continuously practice 1 thing. After the 10 minutes are up I'll take a 3 minute break. Rinse and repeat.
+The [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is essentially an interval timer. I'll set a timer for 1 minute to see how many of a certain move I can do. Then I'll set a timer for 10 minutes and continuously practice 1 thing. After the 10 minutes are up I'll take a 3 minute break. Rinse and repeat.
 
 ### Carpel Tunnel and hand pain
 
