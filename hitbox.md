@@ -1,8 +1,18 @@
 # Hitbox Journal
 
-I'm doing a 3 month long hitbox journey.
-My mindset going in to this is that I'm going to lose alot in the beginning.
-After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
+## Day 270 (May 4th, 2020)
+
+I'm still going strong with the hitbox and I still enjoy playing on it! I've transitioned to a new character, which is the command character Zeku, and my inputs are getting cleaner. My biggest hurdle as of lately is removing bad habits. I have gotten accustomed to the instant dragon punch and am practicing to solely rely on regular dragon punches. Other than that, my training has differed only by increasing repititions during practice when I am struggling with a motion.
+
+### How I practice now (Pomodoro technique is strong)
+
+I look to Infexious, which is arguabley the best tournament zeku in the world right now that plays on pad, for advice on how to train. He says to repeat an action roughly 2000-3000 times to get it into your muscle memory. It's actually not that much work to do considering the benifits of doing so. To accomplish this efficiently I'll use the pomodoro technique to accomplish this.
+
+The (pomodoro technique)[https://en.wikipedia.org/wiki/Pomodoro_Technique] is essentially an interval timer. I'll set a timer for 1 minute to see how many of a certain move I can do. Then I'll set a timer for 10 minutes and continuously practice 1 thing. After the 10 minutes are up I'll take a 3 minute break. Rinse and repeat.
+
+### Carpel Tunnel and hand pain
+
+I never had any pains related to my wrist or arms as I've been going through this journey. One of the reasons I believe I've avoided this is because I'm constantly relaxed with my arm/wrist muscles during play. I also play with my hitbox angled slightly downwards so I'm not flexing anything.
 
 ## Day 3 (Aug 8th, 2019)
 
@@ -79,3 +89,9 @@ I've played on both pad and stick in the past.
 I used to play guitar for about a year so my left hand has some muscle memory of piano'ing inputs.
 I played trumpet and saxaphone too so my right hand has some muscle memory too.
 For all intents and purposes of this journal I'll just give my experience on what I'm working on and how I'm going about getting better with a HB.
+
+## Beginning
+
+I'm doing a 3 month long hitbox journey.
+My mindset going in to this is that I'm going to lose alot in the beginning.
+After 3 months have gone by I hope to figure out if I want to stick with it or stay on pad.
