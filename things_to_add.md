@@ -1,3 +1,11 @@
+## Nothing more important than devotion to practice! Efficient practice!
+
+I believe greatness happens when preparation meets opportunity. Opportunity is fleeting though. So how can you make sure to take advantage of that opportunity? With preparation! Lately I've been applying a technique that has been doing wonders for my gameplay. It's called the Pomodoro technique.
+
+I look to Infexious, which is arguabley the best tournament zeku in the world right now that plays on pad, for advice on how to train. He says to repeat an action roughly 2000-3000 times to get it into your muscle memory. It's actually not that much work to do considering the benifits. To accomplish this efficiently I use the pomodoro technique to accomplish this.
+
+The pomodoro technique is essentially an interval timer. I'll set a timer for 1 minute to see how many of a certain move I can do. Then I'll set a timer for 10 minutes and continuously practice 1 thing. After the 10 minutes are up I'll take a 3 minute break. Rinse and repeat.
+
 ## Gardening
 Writing about how when I was gardening, I had 10 plants that died.
 But then looked up and saw the other 117 plants I planted were thriving.
